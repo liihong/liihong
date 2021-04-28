@@ -28,5 +28,5 @@
 
 
 ### 关于我
-- [技术笔记]()
+- [技术笔记](https://liihong.github.io/)
 > ***I love to make friends. so if you want to say hi, I'll be happy to meet you more!😊***
